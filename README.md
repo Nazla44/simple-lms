@@ -38,5 +38,3 @@ Penjelasan:
 - DATABASE_URL: Konfigurasi koneksi PostgreSQL dalam format URL dengan detail (username & password: postgres, hostname database, port PostgreSQL yaitu 5432, dan nama DB adalah lms_db)
 - REDIS_URL: URL koneksi Redis
 
-# Welcome Page Django
-<img width="1911" height="1018" alt="Screenshot 2026-03-26 120535" src="https://github.com/user-attachments/assets/f4af768d-f672-4a8a-8dd9-9a1ab9c98e4c" />
